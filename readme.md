@@ -73,7 +73,3 @@ While the prompt defaults to generating a **standalone HTML dashboard** for stak
 ## 🤝 Contributing
 
 Have a better way to detect ghost dependencies or want to add support for Deno/Bun? Feel free to open a Pull Request.
-
----
-
-**Would you like me to generate a specific `output-example.md` based on a common tech stack (e.g., React + Tailwind + Vite) to help populate your repo?**
